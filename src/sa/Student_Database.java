@@ -22,6 +22,7 @@ public class Student_Database {
 		Student st1 = new Student("Danielle", "8997908784");
 		System.out.println("A new student is registered");
 		st1.enroll(Student[0] course = "geo");
+		System.out.println("Hey Dude");
 		
 		
 	}
